@@ -8,11 +8,11 @@ NOV 5 2023 - DEC 12 2023
 
 | Limit | Used  |
 | ---:  | ---:  |
-| 3,000 | 3,000 |
+| 3,400 | 3,285 |
 
 | BATTLE TALLY | VICTORIES | REQUISITION POINTS |
 | ---:         | ---:      | ---:               |
-|          0   |         0 |                  0 |
+|          0   |         0 |                  3 |
 
 ## Order of Battle
 
@@ -23,19 +23,18 @@ NOV 5 2023 - DEC 12 2023
 | [Mama Murphy](#mama-murphy)     | Broodlord    |   110 |       0 | !GC  |
 | [Old Gregg](#old-gregg)         | Deathleaper  |    70 |       0 |      |
 | [Jerry Sizzler](#jerry-sizzler) | Nuerotyrant  |   135 |       0 |      |
+| [Ratchet](#ratchet)             | Nuerotyrant  |   115 |       0 |      |
 | [Hell Stork](#hell-stork)       | Para Mortrex |    80 |       0 | !GC  |
 | [Fey](#fey)                     | W Hive Ty    |   210 |       0 | !HOL |
 | [Batman](#batman)               | W Prime      |    75 |       0 |      |
-
-| POINTS VALUE | CRUSADE POINTS |
-| ---:         | ---:           |
-|          680 |              0 |
+| [Dingo](#Dingo)                 | W Prime      |    80 |       0 |      |
 
 ### Battleline
 
 | UNIT NAME                           | TYPE         | VALUE | CRUSADE |      |
 | :---                                | :---         | ---:  | ---:    | :--- |  
-| [Swamp Elves](#swamp-elves)         | Hormagaunts  |    65 |       0 | !?   |  
+| [Evil Babbies](#evil-babbies)       | Gargoyles    |    75 |       0 | !?   |  
+| [Swamp Elves](#swamp-elves)         | Hormagaunts  |    65 |       0 | !?   |
 | [Juniper Locusts](#juniper-locusts) | Hormagaunts  |   130 |       0 | !?   |
 | Needles of Narcissus                | Termagants   |    60 |       0 |      |  
 | Emerson's Ghosts                    | Termagants   |    60 |       0 |      |
@@ -43,10 +42,6 @@ NOV 5 2023 - DEC 12 2023
 | The Green Hell                      | Termagants   |   120 |       0 | !?   |
 | Red Tails                           | Termagants   |   120 |       0 | !?   |
 | The Cresting Wave                   | Termagants   |   120 |       0 | !?   |
-
-| POINTS VALUE | CRUSADE POINTS |
-| ---:         | ---:           |
-|          735 |              0 |
 
 ### Other
 
@@ -60,6 +55,9 @@ NOV 5 2023 - DEC 12 2023
 | Eric                      | Norn Em      |   290 |       0 | !X   |
 | **Rye-Hulud**             | Psychophage  |   125 |       0 |      |
 | **Poe**                   | Psychophage  |   125 |       0 |      |
+| [Breeders](#breeders)     | Ripper Swarm |    20 |       0 |      |
+| [Ravenpest](#ravenpest)   | Ripper Swarm |    20 |       0 |      |
+| [Blooms](#blooms)         | Ripper Swarm |    20 |       0 |      |
 | Toe's Bane                | Ripper Swarm |    60 |       0 |      |
 | Sterling's Rebuke         | Ripper Swarm |    60 |       0 |      |
 | **Langoliers**            | Ripper Swarm |    60 |       0 |      |
@@ -68,12 +66,38 @@ NOV 5 2023 - DEC 12 2023
 | **Slots-A-Fun**           | VR Leapers   |    75 |       0 |      |
 | The Muses                 | Zoanthropes  |   110 |       0 | !?   |
 
-| POINTS VALUE | CRUSADE POINTS |
-| ---:         | ---:           |
-|         1540 |              0 |
+<div style="page-break-after: always;"></div>
+********************************************************************************
+
+## RP History
+
+| Date     | Action                    | TYPE  | VAL  | BAL  | Notes     |
+| :---     | :---                      | :---  | ---: | ---: | :---      |
+| 05.11.23 | Crusade Start             | GAIN  | +5   | 5    |           |
+| 11.11.23 | Increse Supply Limit      | SPEND | -1   | 4    | 3000>3200 |
+| 11.11.23 | Increse Supply Limit      | SPEND | -1   | 3    | 3200>3400 |
+
+## Order of Battle History
+
+| Date     | Action                            | TYPE  | VAL    | BAL   | Notes     |
+| :---     | :---                              | :---  | ---:   | ---:  | :---      |
+| 05.11.23 | Crusade Start                     | ADD   |  3,000 | 3,000 |           |
+| 05.11.23 | Initial Roster                    | DRAFT | -2,955 |    45 |           |
+| 05.11.23 | Increse Supply Limit              | ADD   |    200 |   245 |           |
+| 05.11.23 | Increse Supply Limit              | ADD   |    200 |   445 |           |
+| 05.11.23 | Add [Ratchet](#ratchet)           | DRAFT |   -115 |   330 | NuTy ENH  |
+| 05.11.23 | Add [Breeders](#breeders)         | DRAFT |    -20 |   310 | RSwarm 1  |
+| 05.11.23 | Add [Ravenpest](#ravenpest)       | DRAFT |    -20 |   290 | RSwarm 1  |
+| 05.11.23 | Add [Blooms](#blooms)             | DRAFT |    -20 |   270 | RSwarm 1  |
+| 05.11.23 | Add [Dingo](#dingo)               | DRAFT |    -80 |   190 | W Ty ENH  |
+| 05.11.23 | Add [Evil Babbies](#evil-babbies) | DRAFT |    -75 |   115 | Gargs 10  |
+
+
+<div style="page-break-after: always;"></div>
 
 ## Crusade Cards
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Mama Murphy
@@ -112,6 +136,7 @@ none
 
 none
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Old Gregg
@@ -150,6 +175,7 @@ INFANTRY, CHARACTER, EPIC HERO, GREAT DEVOURER, VANGUARD INVADER, DEATHLEAPER
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Jerry Sizzler
@@ -188,6 +214,46 @@ MONSTER, CHARACTER, FLY, PSYKER, GREAT DEVOURER, SYNAPSE, NUEROTYRANT
 
 - *none*
 
+<div style="page-break-after: always;"></div>
+********************************************************************************
+
+### Ratchet
+
+| POINTS COST | CRUSADE POINTS |
+| ---:        | ---:           |
+|         115 |              0 |
+
+#### Unit Type - Ratchet
+
+NUEROTYRANT
+
+#### Keywords - Ratchet
+
+MONSTER, CHARACTER, FLY, PSYKER, GREAT DEVOURER, SYNAPSE, NUEROTYRANT
+
+#### Equipment - Ratchet
+
+- MELEE - Nuerotyrant claws and lashes
+
+#### Enhancements and Upgrades - Ratchet
+
+- BIOPHAGIC FLOW (AURA)
+
+#### Combat Tallies - Ratchet
+
+| BATTLE TALLY | SURVIVED  | ENEMY UNITS DESTROYED |
+| ---:         | ---:      | ---:                  |
+|          0   |         0 |                     0 |
+
+#### Battle Honors - Ratchet
+
+- *none*
+
+#### Battle Scars - Ratchet
+
+- *none*
+
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Hell Stork
@@ -227,6 +293,7 @@ INFANTRY, CHARACHTER, FLY, GREAT DEVOURER, VANGAURD INVADER, PARASITE OF MORTREX
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Fey
@@ -266,6 +333,7 @@ MONSTER, CHARACTER, PSYKER, FLY, GREAT DEVOURER, SYNAPSE, VANGAURD INVADER, HIVE
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Batman
@@ -304,6 +372,86 @@ INFANTRY, CHARACTER, FLY, GREAT DEVOURER, SYNAPSE, VANGAURD INVADER, WINGED TYRA
 
 - *none*
 
+<div style="page-break-after: always;"></div>
+********************************************************************************
+
+### Dingo
+
+| POINTS COST | CRUSADE POINTS |
+| ---:        | ---:           |
+|          80 |              0 |
+
+#### Unit Type - Dingo
+
+WINGED TYRANID PRIME
+
+#### Keywords - Dingo
+
+INFANTRY, CHARACTER, FLY, GREAT DEVOURER, SYNAPSE, VANGAURD INVADER, WINGED TYRANID PRIME
+
+#### Equipment - Dingo
+
+- MELEE - Prime Talons
+
+#### Enhancements and Upgrades - Dingo
+
+- INSTINCTIVE DEFENSE
+
+#### Combat Tallies - Dingo
+
+| BATTLE TALLY | SURVIVED  | ENEMY UNITS DESTROYED |
+| ---:         | ---:      | ---:                  |
+|          0   |         0 |                     0 |
+
+#### Battle Honors - Dingo
+
+- *none*
+
+#### Battle Scars - Dingo
+
+- *none*
+
+<div style="page-break-after: always;"></div>
+********************************************************************************
+
+### Evil Babbies
+
+| POINTS COST | CRUSADE POINTS |
+| ---:        | ---:           |
+|          75 |              0 |
+
+#### Unit Type - Evil Babbies
+
+GARGOYLES (10)
+
+#### Keywords - Evil Babbies
+
+INFANTRY, BATTLELINE, GREAT DEVOURER, ENDLESS MULTITUDE, HORMAGAUNTS
+
+#### Equipment - Evil Babbies
+
+- RANGE - 10x - Fleshborer
+- MELEE - 10x - Blinding Venom
+
+#### Enhancements and Upgrades - Evil Babbies
+
+- *none*
+
+#### Combat Tallies - Evil Babbies
+
+| BATTLE TALLY | SURVIVED  | ENEMY UNITS DESTROYED |
+| ---:         | ---:      | ---:                  |
+|          0   |         0 |                     0 |
+
+#### Battle Honors - Evil Babbies
+
+- *none*
+
+#### Battle Scars - Evil Babbies
+
+- *none*
+
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Swamp Elves
@@ -342,6 +490,7 @@ INFANTRY, BATTLELINE, GREAT DEVOURER, ENDLESS MULTITUDE, HORMAGAUNTS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Juniper Locusts
@@ -381,6 +530,7 @@ INFANTRY, BATTLELINE, GREAT DEVOURER, ENDLESS MULTITUDE, HORMAGAUNTS
 - *none*
 
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Needles of Narcissus
@@ -420,6 +570,7 @@ INFANTRY, BATTLELINE, GREAT DEVOURER, ENDLESS MULTITUDE, TERMAGANTS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Emerson's Ghosts
@@ -460,6 +611,7 @@ INFANTRY, BATTLELINE, GREAT DEVOURER, ENDLESS MULTITUDE, TERMAGANTS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Yellow Tails
@@ -500,6 +652,7 @@ INFANTRY, BATTLELINE, GREAT DEVOURER, ENDLESS MULTITUDE, TERMAGANTS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Green Hell
@@ -539,6 +692,7 @@ INFANTRY, BATTLELINE, GREAT DEVOURER, ENDLESS MULTITUDE, TERMAGANTS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Red Tails
@@ -579,6 +733,7 @@ INFANTRY, BATTLELINE, GREAT DEVOURER, ENDLESS MULTITUDE, TERMAGANTS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Cresting Wave
@@ -619,6 +774,7 @@ INFANTRY, BATTLELINE, GREAT DEVOURER, ENDLESS MULTITUDE, TERMAGANTS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### BARBra & the DIEsands
@@ -658,6 +814,7 @@ INFANTRY, GREAT DEVOURER, BARBGAUNTS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Puking Owls
@@ -697,6 +854,7 @@ INFANTRY, GREAT DEVOURER, BARBGAUNTS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Star Belly Leeches
@@ -735,6 +893,7 @@ INFANTRY, GREAT DEVOURER, VANGAURD INVADER, GENESTEALERS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Zoidberg
@@ -773,6 +932,7 @@ INFANTRY, GREAT DEVOURER, VANGAURD INVADER, LICTOR
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Sealions
@@ -812,6 +972,7 @@ INFANTRY, GREAT DEVOURER, ENDLESS MULTITUDE, NUEROGAUNTS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Eric
@@ -852,6 +1013,7 @@ MONSTER, PSYKER, GREAT DEVOURER, SYNAPSE, NORN EMISSARY
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Rye-Hulud
@@ -891,6 +1053,7 @@ MONSTER, GREAT DEVOURER, HARVESTER, PSYCHOPHAGE
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Poe
@@ -930,6 +1093,124 @@ MONSTER, GREAT DEVOURER, HARVESTER, PSYCHOPHAGE
 
 - *none*
 
+<div style="page-break-after: always;"></div>
+********************************************************************************
+
+### Breeders
+
+| POINTS COST | CRUSADE POINTS |
+| ---:        | ---:           |
+|          20 |              0 |
+
+#### Unit Type - Breeders
+
+Ripper Swarms (1)
+
+#### Keywords - Breeders
+
+SWARM, GREAT DEVOURER, HARVESTER, RIPPER SWARMS
+
+#### Equipment - Breeders
+
+- MELEE - x - Citinous claws and teeth
+
+#### Enhancements and Upgrades - Breeders
+
+- *none*
+
+#### Combat Tallies - Breeders
+
+| BATTLE TALLY | SURVIVED  | ENEMY UNITS DESTROYED |
+| ---:         | ---:      | ---:                  |
+|          0   |         0 |                     0 |
+
+#### Battle Honors - Breeders
+
+- *none*
+
+#### Battle Scars - Breeders
+
+- *none*
+
+<div style="page-break-after: always;"></div>
+********************************************************************************
+
+### Ravenpest
+
+| POINTS COST | CRUSADE POINTS |
+| ---:        | ---:           |
+|          20 |              0 |
+
+#### Unit Type - Ravenpest
+
+Ripper Swarms (1)
+
+#### Keywords - Ravenpest
+
+SWARM, GREAT DEVOURER, HARVESTER, RIPPER SWARMS
+
+#### Equipment - Ravenpest
+
+- MELEE - x - Citinous claws and teeth
+
+#### Enhancements and Upgrades - Ravenpest
+
+- *none*
+
+#### Combat Tallies - Ravenpest
+
+| BATTLE TALLY | SURVIVED  | ENEMY UNITS DESTROYED |
+| ---:         | ---:      | ---:                  |
+|          0   |         0 |                     0 |
+
+#### Battle Honors - Ravenpest
+
+- *none*
+
+#### Battle Scars - Ravenpest
+
+- *none*
+
+<div style="page-break-after: always;"></div>
+********************************************************************************
+
+### Bloom
+
+| POINTS COST | CRUSADE POINTS |
+| ---:        | ---:           |
+|          20 |              0 |
+
+#### Unit Type - Bloom
+
+Ripper Swarms (1)
+
+#### Keywords - Bloom
+
+SWARM, GREAT DEVOURER, HARVESTER, RIPPER SWARMS
+
+#### Equipment - Bloom
+
+- MELEE - x - Citinous claws and teeth
+
+#### Enhancements and Upgrades - Bloom
+
+- *none*
+
+#### Combat Tallies - Bloom
+
+| BATTLE TALLY | SURVIVED  | ENEMY UNITS DESTROYED |
+| ---:         | ---:      | ---:                  |
+|          0   |         0 |                     0 |
+
+#### Battle Honors - Bloom
+
+- *none*
+
+#### Battle Scars - Bloom
+
+- *none*
+
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Toe's Bane
@@ -968,6 +1249,7 @@ SWARM, GREAT DEVOURER, HARVESTER, RIPPER SWARMS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Sterling's Rebuke
@@ -1006,6 +1288,7 @@ SWARM, GREAT DEVOURER, HARVESTER, RIPPER SWARMS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Langoliers
@@ -1044,6 +1327,7 @@ SWARM, GREAT DEVOURER, HARVESTER, RIPPER SWARMS
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Skunk Ape
@@ -1083,6 +1367,7 @@ MONSTER, GREAT DEVOURER, SCREAMER-KILLER
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Hardy Boys
@@ -1121,6 +1406,7 @@ INFANTRY, FLY, GREAT DEVOURER, VENOMTROPES
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### Slots-A-Fun
@@ -1159,6 +1445,7 @@ INFANTRY, FLY, GREAT DEVOURER, VENOMTROPES
 
 - *none*
 
+<div style="page-break-after: always;"></div>
 ********************************************************************************
 
 ### The Muses
